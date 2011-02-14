@@ -18,7 +18,7 @@ setup(name='ygl',
         Intended Audience :: Developers
         Intended Audience :: Science/Research
         License :: OSI Approved :: BSD License
-        Operating System :: MacOS X
+        Operating System :: MacOS :: MacOS X
         Operating System :: POSIX
         Operating System :: Unix
         Programming Language :: Python
